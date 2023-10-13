@@ -22,3 +22,5 @@ Allow the historical null-hostility of switch to be relaxed when desired.
 Increase the safety of switch statements by requiring that pattern switch statements cover all possible input values.
 
 Ensure that all existing switch expressions and statements continue to compile with no changes and execute with identical semantics.
+
+..
